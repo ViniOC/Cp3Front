@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "marca": "Funko Pop",
+        "nome": "Funko Itadori",
+        "descricao": "Boneco Funko do Yuji Itadori",
+        "preco": 100
+    },
+    {
+        "id": 2,
+        "marca": "Funko Pop",
+        "nome": "Funko Gojo",
+        "descricao": "Boneco Funko do Gojo",
+        "preco": 100
+    },
+    {
+        "id": 3,
+        "marca": "Funko Pop",
+        "nome": "Funko Megumi",
+        "descricao": "Boneco Funko do Megumi",
+        "preco": 100
+    },
+    {
+        "id": 4,
+        "marca": "Funko Pop",
+        "nome": "Funko Nobara",
+        "descricao": "Boneco Funko do Nobara",
+        "preco": 100
+    },
+    {
+        "id": 5,
+        "marca": "Funko Pop",
+        "nome": "Funko Satoru",
+        "descricao": "Boneco Funko do Satoru",
+        "preco": 100
+    },
+    {
+        "id": 6,
+        "marca": "Funko Pop",
+        "nome": "Funko Tanjiro",
+        "descricao": "Boneco Funko do Tanjiro",
+        "preco": 100
+    },
+    {
+        "id": 7,
+        "marca": "Funko Pop",
+        "nome": "Funko Zenitso",
+        "descricao": "Boneco Funko do Zenitso",
+        "preco": 100
+    },
+    {
+        "id": 8,
+        "marca": "Funko Pop",
+        "nome": "Funko Inosuke",
+        "descricao": "Boneco Funko do Inosuke",
+        "preco": 100
+    },
+    {
+        "id": 9,
+        "marca": "Funko Pop",
+        "nome": "Funko Sanemi",
+        "descricao": "Boneco Funko do Sanemi",
+        "preco": 100
+    },
+    {
+        "id": 10,
+        "marca": "Funko Pop",
+        "nome": "Funko Uzui",
+        "descricao": "Boneco Funko do Uzui",
+        "preco": 100
+    },
+    {
+        "id": 11,
+        "marca": "Bandai",
+        "nome": "Manga Jujutso Kaisen",
+        "descricao": "Manga do Jujutso Kaisen Vol1",
+        "preco": 40
+    },
+    {
+        "id": 12,
+        "marca": "Bandai",
+        "nome": "Manga Naruto",
+        "descricao": "Manga do Naruto Vol1",
+        "preco": 32
+    },
+    {
+        "id": 13,
+        "marca": "Bandai",
+        "nome": "Manga Shingeki no Kyojin",
+        "descricao": "Manga do Shingeki no Kyojin Vol1",
+        "preco": 37
+    },
+    {
+        "id": 14,
+        "marca": "Bandai",
+        "nome": "Manga ONE Piece",
+        "descricao": "Manga do ONE Piece Vol1",
+        "preco": 36
+    },
+    {
+        "id": 15,
+        "marca": "Bandai",
+        "nome": "Manga Solo Leveling",
+        "descricao": "Manga do Solo Leveling Vol1",
+        "preco": 41
+    },
+    {
+        "id": 16,
+        "marca": "Bandai",
+        "nome": "Manga Black Clover",
+        "descricao": "Manga do Black Clover Vol1",
+        "preco": 39
+    },
+    {
+        "id": 17,
+        "marca": "Bandai",
+        "nome": "Manga Hells Paradise",
+        "descricao": "Manga Hells Paradise Vol1",
+        "preco": 35
+    },
+    {
+        "id": 18,
+        "marca": "Chav",
+        "nome": "Chaveiro Toji",
+        "descricao": "Chaveiro do Toji",
+        "preco": 18
+    },
+    {
+        "id": 19,
+        "marca": "Chav",
+        "nome": "Chaveiro Pikachu",
+        "descricao": "Chaveiro do Pikachu",
+        "preco": 12
+    },
+    {
+        "id": 20,
+        "marca": "Chav",
+        "nome": "Chaveiro Esfera Dragon Ball",
+        "descricao": "Chaveiro Esfera Dragon Ball",
+        "preco": 14
+    }
+]
