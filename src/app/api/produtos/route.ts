@@ -15,8 +15,8 @@ export async function POST(request: Request) {
 
     const file = await fs.readFile(process.cwd() + '/src/data/produtos.json', 'utf-8')
     const data = JSON.parse(file)
-    const {  marca ,nome, descricao,preco } = await request.json()
-    const produto = { marca ,nome, descricao, preco } as TipoProduto
+    const {  marca ,nome, descricao,preco, imagem } = await request.json()
+    const produto = { marca ,nome, descricao, preco, imagem } as TipoProduto
     produto.id = Number(Date.now())
     data.push(produto)
     const json = JSON.stringify(data)

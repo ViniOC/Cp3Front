@@ -12,7 +12,8 @@ export default function Cadastro(){
         marca:"",
         nome:"",
         descricao:"",
-        preco:0
+        preco:0,
+        imagem:""
         
     })
 
@@ -35,7 +36,7 @@ export default function Cadastro(){
 
             if(response.ok){
                 alert(`${produto.nome} cadastrado com sucesso!`)
-                setProduto({id:0, marca:"",nome:"",descricao:"", preco:0})
+                setProduto({id:0, marca:"",nome:"",descricao:"", preco:0, imagem:""})
                 navigate.push('/produtos')
             }else{
                 alert("Erro ao cadastrar!")

@@ -1,11 +1,11 @@
 "use client"
 import Image from 'next/image'
-import image1 from './../image/gojofunko.jpg'
-import image2 from './../image/pikachuchaveiro.jpg'
-import image3 from './../image/esferachaveiro.jpg'
-import image4 from './../image/inosukefunko.jpg'
-import image5 from './../image/megumifunko.jpg'
-import image6 from './../image/satorufunko.jpg'
+import image1 from '../../public/image/mangasolo.jpg'
+import image2 from '../../public/image/itadorifunko.jpg'
+import image3 from '../../public/image/esferachaveiro.jpg'
+import image4 from '../../public/image/inosukefunko.jpg'
+import image5 from '../../public/image/megumifunko.jpg'
+import image6 from '../../public/image/satorufunko.jpg'
 import { useState } from 'react'
 
 const slides = [image1,image2,image3,image4,image5,image6]
